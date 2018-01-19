@@ -1,0 +1,12 @@
+.friends--card {
+    border: 1px solid silver;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+}
+
+.friends {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
